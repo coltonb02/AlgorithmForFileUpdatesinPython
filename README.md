@@ -16,4 +16,4 @@ To develop a Python algorithm capable of updating files for automation tasks in 
 - Text editors/IDEs (ex. VS Code)
 
 ## Project Materials
-<a href="https://algorithmforfileupdatesinpython.tiiny.site/">Algorithm for File Updates in Python</a>
+<a href="https://docs.google.com/document/d/1dJbMRU4yw2MOGmFXa5PI7AYIwC56Zqks2X1veBWtAsY/edit?usp=sharing">Algorithm for File Updates in Python</a>
